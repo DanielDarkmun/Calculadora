@@ -63,11 +63,23 @@ body{
     background-color: #E36D46;
     color:black;
 }
+.btn:hover{
+    background-color: #E36D46;
+    color:black;
+}
 .btn-op:active{
+    background-color: #E67653;
+    color:black;
+}
+.btn-op:hover{
     background-color: #E67653;
     color:black;
 }
 .btn-equal:active{
     background-color: #BD3F18;
     color: white;
+}
+.btn-equal:hover{
+    background-color: #FF5622;
+    color: black;
 }
